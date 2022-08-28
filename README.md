@@ -39,16 +39,20 @@ Node.js를 배우기 위해 모였지만 백엔드, 프론트엔드, 디자인 �
 # 개발 프레임 워크
 
 ### 프론트엔드
-
-React
-AWS- EC2, RDS
+```text
+- React
+- AWS EC2
+- AWS RDS
+```
 
 ### 백엔드
-
-heroku
-mysql
-Express.js
-node.js
+```text
+- Heroku
+- Node.js
+- Express
+- AWS RDS
+- MySQL
+```
 
 ![Group 1](https://user-images.githubusercontent.com/62539910/187086343-d4396af9-efbc-4648-b3bd-b7ba3f3e79cf.png)
 
